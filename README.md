@@ -17,7 +17,7 @@ Property | Data
 <!-- https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white >
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![gitHub activity graph](https://activity-graph.herokuapp.com/graph?username=costa-victor&hide_border=true&theme=redical)
+[![gitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=costa-victor&theme=github-compact)](https://github.com/costa-victor/github-readme-activity-graph)
 
  . | .
 --- | --- 
