@@ -17,11 +17,8 @@ Property | Data
 <!-- https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white >
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![gitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=costa-victor&theme=github-compact)](https://github.com/costa-victor/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=costa-victor&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
- . | .
---- | --- 
-![costa-victor github stats](https://github-readme-stats.vercel.app/api?username=costa-victor&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=costa-victor&theme=radical&layout=compact)
 
 
 **📫 How to Reach me:**
